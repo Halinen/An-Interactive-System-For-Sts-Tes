@@ -5,7 +5,7 @@
 在这里特别谢谢我滴后台酱WJJ俊哥赛高！感谢俊哥的不离不弃！<br>
 那我接下来写写操作说明吧<br>
 
-=
+
 连数据库的操作:cmd管理员权限打开，输入`net start mysql57`<br>
 打开阿帕奇的操作：`bin/startup.bat`,记得要一直开着哟<br>
 浏览器里输入`http://localhost:8080/education/pages/`<br>

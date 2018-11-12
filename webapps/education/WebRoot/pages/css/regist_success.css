@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.page{
+    height: 100px;
+    width: 100%;
+    background-color: #d4d0d0;
+}
+
+h1{
+    text-align: center;
+    color: #da3a3a;
+    padding: 23px;
+}

@@ -1,0 +1,146 @@
+[genuitec-file-id="wc1-2"],[genuitec-lp-path="/education/WebRoot/pages/css/index.css"],[genuitec-lp-enabled=false]{
+  /* for codelive */
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font: 16px/1.8 "Microsoft Yahei",verdana;
+}
+
+.section{
+    position: relative;
+    background-color: #fff;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+/*第一屏样式设置*/
+
+.section1{
+    background: url("../image/4.jpeg") no-repeat center;
+    background-size: cover;
+
+}
+
+.section1 h1{
+    margin-top: 5%;
+    color: #293a42;
+    font-size: 70px;
+    font-weight: normal;
+    opacity:0.8;
+
+}
+
+.section1 p{
+    margin: 5% auto 0;
+    color: #fff;
+    font-size: 18px;
+    width: 60%;
+    opacity: 0.6;
+
+}
+
+.section1 a{
+
+    display: block;
+   margin: 5% auto 0;
+    color: #909c8e;
+    font-size:23px;
+    opacity: 0.9;
+    text-decoration: none;
+    outline: none;
+
+}
+.section1 a:hover{
+    text-decoration: underline;
+
+}
+/*第二屏样式设置*/
+
+.section2{
+
+    background: url("../image/5.jpeg") no-repeat bottom;
+    background-size: 100%;
+
+}
+
+.section2 h1{
+
+    margin: 20px auto;
+    color: #c2aeba;
+    font-size: 80px;
+    font-weight: normal;
+
+    
+}
+
+.section2 a{
+
+    display: block;
+    margin: 23px auto 0;
+    color: #3a8197;
+    font-size: 18px;
+    text-decoration: none;
+    outline: none;
+
+}
+.section2 a:hover{
+
+    text-decoration: underline;
+
+}
+
+/*第三屏样式设置*/
+
+.section3{
+
+    background: url("../image/6.jpeg") no-repeat center 0px;
+    background-size: 100%;
+
+}
+
+.section3 h1{
+
+    margin: 20px auto;
+    color: #476067;
+    font-size: 50px;
+    font-weight: normal;
+    width: 60%;
+
+    /*margin-left: -1500px;*/
+
+}
+
+.section3 p{
+
+    margin: 20px auto 0;
+    color: #476067;
+    font-size: 26px;
+    width: 60%;
+
+    /*margin-left: 1500px;*/
+
+}
+
+.section3 a{
+
+    display: block;
+    margin: 20px auto 0;
+    color: #738fa5;
+    font-size: 18px;
+    text-decoration: none;
+    outline: none;
+
+}
+
+.section3 a:hover{
+
+    text-decoration: underline;
+
+}
+

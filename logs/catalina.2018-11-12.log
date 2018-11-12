@@ -1,0 +1,49 @@
+12-Nov-2018 16:26:24.584 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/9.0.10
+12-Nov-2018 16:26:24.721 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 20 2018 17:32:21 UTC
+12-Nov-2018 16:26:24.723 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         9.0.10.0
+12-Nov-2018 16:26:24.723 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+12-Nov-2018 16:26:24.723 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+12-Nov-2018 16:26:24.723 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+12-Nov-2018 16:26:24.728 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\Java8\jre
+12-Nov-2018 16:26:24.728 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_144-b01
+12-Nov-2018 16:26:24.728 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+12-Nov-2018 16:26:24.729 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\一些文件\apache-tomcat-9.0.10
+12-Nov-2018 16:26:24.729 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\一些文件\apache-tomcat-9.0.10
+12-Nov-2018 16:26:24.729 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\一些文件\apache-tomcat-9.0.10\conf\logging.properties
+12-Nov-2018 16:26:24.729 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-Nov-2018 16:26:24.729 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+12-Nov-2018 16:26:24.730 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+12-Nov-2018 16:26:24.730 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+12-Nov-2018 16:26:24.730 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\一些文件\apache-tomcat-9.0.10
+12-Nov-2018 16:26:24.731 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\一些文件\apache-tomcat-9.0.10
+12-Nov-2018 16:26:24.735 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\一些文件\apache-tomcat-9.0.10\temp
+12-Nov-2018 16:26:24.738 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.17] using APR version [1.6.3].
+12-Nov-2018 16:26:24.738 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+12-Nov-2018 16:26:24.738 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+12-Nov-2018 16:26:25.588 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2o  27 Mar 2018]
+12-Nov-2018 16:26:26.320 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+12-Nov-2018 16:26:26.778 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Nov-2018 16:26:26.834 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+12-Nov-2018 16:26:26.836 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+12-Nov-2018 16:26:26.837 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 4088 ms
+12-Nov-2018 16:26:26.964 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+12-Nov-2018 16:26:26.965 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/9.0.10
+12-Nov-2018 16:26:26.989 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\一些文件\apache-tomcat-9.0.10\webapps\docs]
+12-Nov-2018 16:26:28.069 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\一些文件\apache-tomcat-9.0.10\webapps\docs] has finished in [1,059] ms
+12-Nov-2018 16:26:28.070 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\一些文件\apache-tomcat-9.0.10\webapps\education]
+12-Nov-2018 16:26:29.576 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+12-Nov-2018 16:26:29.646 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\一些文件\apache-tomcat-9.0.10\webapps\education] has finished in [1,576] ms
+12-Nov-2018 16:26:29.647 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\一些文件\apache-tomcat-9.0.10\webapps\examples]
+12-Nov-2018 16:26:30.724 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\一些文件\apache-tomcat-9.0.10\webapps\examples] has finished in [1,077] ms
+12-Nov-2018 16:26:30.724 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\一些文件\apache-tomcat-9.0.10\webapps\host-manager]
+12-Nov-2018 16:26:30.801 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\一些文件\apache-tomcat-9.0.10\webapps\host-manager] has finished in [77] ms
+12-Nov-2018 16:26:30.802 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\一些文件\apache-tomcat-9.0.10\webapps\manager]
+12-Nov-2018 16:26:30.837 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\一些文件\apache-tomcat-9.0.10\webapps\manager] has finished in [35] ms
+12-Nov-2018 16:26:30.837 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [D:\一些文件\apache-tomcat-9.0.10\webapps\ROOT]
+12-Nov-2018 16:26:30.872 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\一些文件\apache-tomcat-9.0.10\webapps\ROOT] has finished in [34] ms
+12-Nov-2018 16:26:30.874 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+12-Nov-2018 16:26:30.884 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+12-Nov-2018 16:26:30.887 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 4049 ms
+12-Nov-2018 16:26:55.323 信息 [http-nio-8080-exec-4] com.mchange.v2.log.MLog.<clinit> MLog clients using java 1.4+ standard logging.
+12-Nov-2018 16:26:55.457 信息 [http-nio-8080-exec-4] com.mchange.v2.c3p0.C3P0Registry.banner Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+12-Nov-2018 16:26:55.595 信息 [http-nio-8080-exec-4] com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource.getPoolManager Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1b61bs49z1y87k81pbyzis|20696fdd, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1b61bs49z1y87k81pbyzis|20696fdd, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://localhost:3306/education?useSSL=false&serverTimezone=GMT, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 15, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]

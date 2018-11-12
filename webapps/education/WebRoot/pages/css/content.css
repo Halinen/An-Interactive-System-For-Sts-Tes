@@ -1,0 +1,201 @@
+[genuitec-file-id="wc1-1"],[genuitec-lp-path="/education/WebRoot/pages/css/content.css"],[genuitec-lp-enabled=false]{
+  /* for codelive */
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.left{
+    position: fixed;
+    width:300px;
+    height: 100%;
+    background-color:#405084;
+   
+}
+
+.left::after,
+.right::after{
+    content:"";
+    display: block;
+    clear: both;
+}
+
+.right{
+    position: absolute;
+    margin-left:300px;
+    width: auto;
+    background-color: #d3d8e1;
+}
+
+.logo{
+    height: 200px;
+    width: 100%;
+    margin-bottom: 80px;
+}
+
+.img-logo img{
+    height:120px;
+    width: 120px;
+    border-radius: 50%;
+    border: 1px solid rgba(148, 154, 168, 0.5);
+    margin-top:100px;
+    margin-left: 30px;
+}
+
+.img-logo a{
+    color: #a4adb4;
+    font-weight: bold;
+    font-size: 25px;
+    vertical-align: 8px;
+    margin-left: 10px;
+}
+
+.img-logo a:hover{
+    color: #b3b3b3;
+}
+
+.left-lead{
+    padding-top: 40px;
+    padding-left: 30px;
+    background-color: #96a4ad;
+    height: 60%;
+}  
+
+.lead{
+    margin-bottom: 20px;
+    
+}
+
+.lead a{
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.lead a:hover{
+    color: #424242;
+}
+
+.homepage{
+    /* height: 1920px; */
+    width: auto;
+}
+
+.homepage img{
+    width: 1200px;
+}
+
+
+.per-info h1,
+.curriculum h1,
+.post h1,
+.ans h1,
+.msg h1{
+    text-align: center;
+    color: #405084;
+}
+
+.per-info .stu-info{
+    margin-top: 60px;
+    margin-left: 150px;
+    font-weight: bold;
+    font-size: 25px;
+    color: #405084;
+}
+
+.stu-info .detail{
+    font-weight: bold;
+    font-size: 25px;
+    color: #405084;
+}
+
+.per-info,
+.curriculum,
+.post,
+.ans,
+.msg{
+    height: 700px;
+}
+
+.sonheader h1{
+    padding: 100px auto;
+    height: 150px;
+    line-height: 150px;
+}
+
+.sonheader h1:hover{
+    background-color:#4c5a88;
+    color: white;
+}
+
+.btn input{
+    display: block;
+    margin: 20px auto 0;
+    background-color: white;
+    border: 5px solid  #4c5a88;
+    height: 40px;
+    width:100px;
+    border-radius: 12px;
+    color: #4c5a88;
+}
+
+.input-ans{
+    display: block;
+    margin: 50px auto 0;
+    width:800px;
+    height: 100px;
+    color: #4c5a88;
+    text-align: start;
+    font-size: 20px;
+}
+
+.btn input:hover{
+    background-color:  white;
+    border: 5px solid  white;
+}
+
+.ans .content img{
+    margin: 0 auto;
+    display: block;
+    width: 500px;
+}
+
+.stu-table{
+    height:550px;
+}
+
+.table1{
+    margin: 8px auto;
+    border: 12px solid #4c5a88;
+}
+.day{
+    background-color: white;
+    color: #4c5a88;
+    height:90px;    
+    width: 130px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.day:hover{
+    background-color: #4c5a88;
+    color: white;
+
+}
+/* 
+.a-upload {
+    height: 10px;
+    width: 300px;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    cursor: pointer;
+}
+
+.a-upload:hover {
+    color: #444;
+} */

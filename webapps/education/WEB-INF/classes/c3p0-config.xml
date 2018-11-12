@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+	<!-- 默认的配置，如果一会读取配置，默认找该配置 -->
+	<default-config>
+		<property name="driverClass">com.mysql.cj.jdbc.Driver</property>
+		<property name="jdbcUrl">jdbc:mysql://localhost:3306/education?useSSL=false&amp;serverTimezone=GMT</property>
+		<property name="user">root</property>
+		<property name="password">ZJzj783365</property>
+	</default-config>
+		
+	<!-- 查找指定名称空间
+	<named-config name="myoracle">
+		<property name="driverClass">com.mysql.cj.jdbc.Driver</property>
+		<property name="jdbcUrl">jdbc:mysql:///education</property>
+		<property name="user">root</property>
+		<property name="password">root</property>
+	</named-config>
+	 -->
+		
+</c3p0-config>

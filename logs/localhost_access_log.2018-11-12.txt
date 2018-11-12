@@ -27,3 +27,5 @@
 0:0:0:0:0:0:0:1 - - [12/Nov/2018:16:27:16 +0800] "POST /education/getscore HTTP/1.1" 200 20210
 0:0:0:0:0:0:0:1 - - [12/Nov/2018:16:27:30 +0800] "POST /education/newNotification HTTP/1.1" 200 20509
 0:0:0:0:0:0:0:1 - - [12/Nov/2018:16:27:40 +0800] "POST /education/getscore HTTP/1.1" 200 19794
+0:0:0:0:0:0:0:1 - - [12/Nov/2018:16:49:06 +0800] "GET /education/pages HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/Nov/2018:16:49:06 +0800] "GET /education/pages/ HTTP/1.1" 200 3047
